@@ -1,0 +1,19 @@
+body{
+    margin: 5%;
+    padding: 5%;
+    width: 208px;
+    height: 250px;
+    background-color: bisque;
+}
+
+li {
+    box-shadow: 2px 3px 4px ;
+    text-shadow:2px 3px 4px ;
+    color: rgb(35, 49, 35)
+    ;
+  
+}
+h1{
+    color: blue;
+    text-shadow: 2px 3px 4px rgb(210, 245, 10); 
+}
